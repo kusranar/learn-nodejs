@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "host": "localhost",
+        "user": "root",
+        "password": "ab1234cd",
+        "database": "db_register",
+        "driver": "mysql",
+        "multipleStatements": true
+    }
+}
